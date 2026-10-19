@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjeev</h1>
-<h3 align="center">Web Developer at Baidyanath · Jhansi, India</h3>
+<h3 align="center">Executive at Baidyanath · Jhansi, India</h3>
 
 ---
 
